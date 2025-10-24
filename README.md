@@ -1,3 +1,3 @@
 # demo-repository
 
-ricky van dern linde
+ricky van der linde
